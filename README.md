@@ -1,2 +1,6 @@
 # git-demo
-First hej
+Vi övar pull och push
+
+First commit!
+Second commit!
+Third commit!
